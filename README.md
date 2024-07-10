@@ -9,3 +9,4 @@ Steps to follow
 6.) Set up the fields : id, username, password, created_at . Make id as auto increment.
 7.) Now Fork this project into "C:\xampp\htdocs" , i.e , wherever your XAMPP is located.
 8.) After all these setup, hit url "localhost/ecommerce" on a new tab in your browser to see the project running.
+
